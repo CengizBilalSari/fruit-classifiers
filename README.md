@@ -44,3 +44,5 @@ Focuses on model optimization, outlier detection, and unsupervised learning.
 * **Dimensionality Reduction:** Comparison of model performance before and after PCA.
 * **Outlier Detection:** A custom framework built on SVM to identify and handle data anomalies.
 * **Unsupervised Learning:** Implementation of K-means++ to find natural groupings in the fruit dataset.
+
+**IMPORTANT NOTE** : Link for image dataset (for huggingface) will be provided after the upload is done.
