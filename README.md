@@ -2,9 +2,11 @@
 
 This repository contains a comprehensive sequence of Jupyter Notebooks implementing a complete machine learning workflow. The project covers the entire lifecycle—from dataset generation and preprocessing to advanced classification, dimensionality reduction, and clustering.
 
+The project was done with [efemantarci](https://github.com/efemantarci) and   [kerembozkurt](https://github.com/kerembozkurt2002)
+
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Environment
 * **Google Colab:** These notebooks are designed to run in Google Colab for ease of use and consistent environments.
@@ -13,7 +15,7 @@ This repository contains a comprehensive sequence of Jupyter Notebooks implement
 ### How to Run
 1.  **Direct Upload:** Upload the project folders to your Google Drive and run the notebooks in the execution order listed below.
 
-## 📂 Project Structure & Execution Order
+##   Project Structure & Execution Order
 
 The project is split into two main phases. **Note:** Phase 1 should be completed before Phase 2.
 
@@ -46,3 +48,4 @@ Focuses on model optimization, outlier detection, and unsupervised learning.
 * **Unsupervised Learning:** Implementation of K-means++ to find natural groupings in the fruit dataset.
 
 **IMPORTANT NOTE** : Link for image dataset (for huggingface) will be provided after the upload is done.
+
