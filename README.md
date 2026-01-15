@@ -41,7 +41,7 @@ Focuses on model optimization, outlier detection, and unsupervised learning.
 
 ---
 
-## 🛠️ Key Features
+##  Key Features
 * **End-to-End Pipeline:** From raw data generation to final model evaluation.
 * **Dimensionality Reduction:** Comparison of model performance before and after PCA.
 * **Outlier Detection:** A custom framework built on SVM to identify and handle data anomalies.
